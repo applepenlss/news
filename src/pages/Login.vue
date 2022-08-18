@@ -1,5 +1,6 @@
 <template>
-  <div>登录fasdaga</div>
+  <div>sdfsdfsdfdsfds登录fasdaga</div>
+
 </template>
 
 <script>
